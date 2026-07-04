@@ -39,3 +39,45 @@ Initialize Waypoint and establish the technical foundation.
 * Verify development server.
 * Replace default homepage with Waypoint landing page.
 * Make first Git commit.
+
+
+
+---
+
+# Mission 002
+
+Date: 2026-07-04
+
+## Goal
+
+Complete the engineering foundation and establish the first production-ready version of Waypoint.
+
+## Completed
+
+* Initialized the local Git repository.
+* Connected the local project to the GitHub repository.
+* Resolved Git merge conflicts.
+* Established the Git workflow.
+* Verified the Next.js development server.
+* Replaced the default Next.js homepage with the initial Waypoint landing page.
+* Successfully committed and pushed the project to GitHub.
+
+## Major Decisions
+
+* Continue following Vertical Slice Development.
+* Keep the landing page intentionally minimal for the MVP.
+* Every engineering mission must end with:
+  * Working build
+  * Git commit
+  * Documentation update
+
+## Blockers
+
+* None.
+
+## Next Mission
+
+* Connect Next.js to Supabase.
+* Configure environment variables.
+* Implement Google OAuth authentication.
+* Create authenticated routes.
